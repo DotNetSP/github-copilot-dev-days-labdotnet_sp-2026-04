@@ -18,6 +18,12 @@ Criar na pasta **.vscode** o arquivo **launch.json**:
 }
 ```
 
-Utilizar como modelo:
+Utilizar o **Claude Opus** como modelo:
 
 ![Claude Opus](img/modelo-01.png)
+
+Instalar o Aspire CLI via bash:
+
+```bash
+curl -sSL https://aspire.dev/install.sh | bash
+```
