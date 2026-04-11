@@ -17,3 +17,7 @@ Criar na pasta **.vscode** o arquivo **launch.json**:
     ]
 }
 ```
+
+Utilizar como modelo:
+
+![Claude Opus](img/modelo-01.png)
