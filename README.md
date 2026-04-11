@@ -1,7 +1,7 @@
 # github-copilot-dev-days-labdotnet_sp-2026-04
 Conteúdos do laboratório prático de GitHub Copilot com .NET 10 + Blazor + Visual Studio 2026 ou VS Code.
 
-Repo a ser realizado fork e adaptado por **Renato Groffe** (desativando o uso de HTTPS do Aspire para testes de desenvolvimento com Codespaces).
+Repo a ser realizado fork e adaptado por **Renato Groffe** (desativando o uso de HTTPS do Aspire para testes de desenvolvimento com Codespaces): https://github.com/DotNetSP/visual-studio-github-copilot-lab-codespaces
 
 Tradução do exercício realizada por **Carlos Machel**: https://github.com/carlosmachel/visual-studio-github-copilot-lab
 
