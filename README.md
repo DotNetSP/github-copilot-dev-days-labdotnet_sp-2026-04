@@ -28,3 +28,7 @@ Instalar o Aspire CLI via bash:
 ```bash
 curl -sSL https://aspire.dev/install.sh | bash
 ```
+
+## Informações sobre o evento
+
+Link para inscrições: https://luma.com/w0ej1rmf
