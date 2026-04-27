@@ -13,6 +13,12 @@ Repo a ser realizado fork e adaptado por **Renato Groffe** (desativando o uso de
 
 Tradução do exercício realizada por **Carlos Machel**: https://github.com/carlosmachel/visual-studio-github-copilot-lab
 
+Referências:
+- Model Context Protocol (MCP): https://github.com/modelcontextprotocol
+- GitHub Copilot documentation: https://docs.github.com/en/copilot
+- Docker MCP Catalog: https://hub.docker.com/mcp
+- GitHub Codespaces: https://github.com/features/codespaces
+
 Exercício prático: **https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/index.html**
 
 Extensões do Visual Studio Code a serem instaladas:
